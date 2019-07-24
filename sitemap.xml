@@ -3,16 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://codetaal.github.io/su-hugo-public/</loc>
-  </url>
-  
-  <url>
-    <loc>https://codetaal.github.io/su-hugo-public/posts/</loc>
+    <loc>https://codetaal.github.io/su-hugo-public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://codetaal.github.io/su-hugo-public/posts/example/</loc>
+    <loc>https://codetaal.github.io/su-hugo-public/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://codetaal.github.io/su-hugo-public/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
