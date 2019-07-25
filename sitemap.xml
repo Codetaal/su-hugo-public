@@ -14,13 +14,36 @@
   </url>
   
   <url>
+    <loc>/su-hugo-public/tags/</loc>
+    <lastmod>2018-08-31T14:24:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/su-hugo-public/posts/example/</loc>
     <lastmod>2018-08-31T14:24:17-04:00</lastmod>
   </url>
   
   <url>
+    <loc>/su-hugo-public/tags/first/</loc>
+    <lastmod>2018-08-31T14:24:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/su-hugo-public/tags/second/</loc>
+    <lastmod>2018-08-31T14:24:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/su-hugo-public/posts/test/</loc>
     <lastmod>2018-08-31T14:24:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/su-hugo-public/categories/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
