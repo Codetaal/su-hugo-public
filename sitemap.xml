@@ -4,15 +4,23 @@
   
   <url>
     <loc>/su-hugo-public/</loc>
+    <lastmod>2018-08-31T14:24:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/su-hugo-public/posts/</loc>
+    <lastmod>2018-08-31T14:24:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/su-hugo-public/posts/example/</loc>
+    <lastmod>2018-08-31T14:24:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/su-hugo-public/posts/test/</loc>
+    <lastmod>2018-08-31T14:24:17-04:00</lastmod>
   </url>
   
 </urlset>
