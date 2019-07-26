@@ -12,18 +12,6 @@
     
     
     <item>
-      <title>Welcome to Hugo! v2</title>
-      <link>/su-hugo-public/posts/example/</link>
-      <pubDate>Fri, 31 Aug 2018 14:24:17 -0400</pubDate>
-      
-      <guid>/su-hugo-public/posts/example/</guid>
-      <description>You’ll find this post in your content/posts directory.
-To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-Hugo also offers powerful support for code snippets:
-package main import &amp;#34;fmt&amp;#34; func print_hi(name string) { fmt.Println(&amp;#34;Hi, &amp;#34;, name) } func main() { print_hi(&amp;#34;Tom&amp;#34;) } //=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.</description>
-    </item>
-    
-    <item>
       <title>test</title>
       <link>/su-hugo-public/posts/test/</link>
       <pubDate>Fri, 31 Aug 2018 14:24:17 -0400</pubDate>
